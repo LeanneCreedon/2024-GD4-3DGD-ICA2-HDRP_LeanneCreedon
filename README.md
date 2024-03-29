@@ -1,2 +1,2 @@
-# 2024_3DGD_ICA2_HDRP
-Starter assets
+# 2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon
+Repository For My Individual Game Project CA 2024
