@@ -60,6 +60,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7435488756916343395, guid: dc5583eb1e5243a4b8aef7bdc2443bc0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -5795845215311118915, guid: dc5583eb1e5243a4b8aef7bdc2443bc0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -4519620648689758818, guid: dc5583eb1e5243a4b8aef7bdc2443bc0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -71,6 +79,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: dc5583eb1e5243a4b8aef7bdc2443bc0, type: 3}
       propertyPath: m_Name
       value: cadillac-75-sedan-1953
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dc5583eb1e5243a4b8aef7bdc2443bc0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
