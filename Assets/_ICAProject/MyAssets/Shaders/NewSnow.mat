@@ -35,7 +35,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Height_Map:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: fd83a55f03f38b34784b5386df640073, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask_Map:
@@ -89,7 +89,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
-    - _Glitter_Size: 10000
+    - _Glitter_Size: 6000
     - _Height_Sensitivity: 0.0025
     - _Metallic: 0
     - _NormalScale: 1
@@ -100,10 +100,10 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 1
-    - _Smoothness: 0.273
-    - _Snow_Curvature: 0.619
-    - _Snow_Glitter_Intensity: 0.498
-    - _Snow_Intensity: 33.78
+    - _Smoothness: 0.266
+    - _Snow_Curvature: 0.376
+    - _Snow_Glitter_Intensity: 0.211
+    - _Snow_Intensity: 25.5
     - _Snow_Normal_Intensity: 0.46
     - _Snow_Tiling: 1
     - _SrcBlend: 1

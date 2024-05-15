@@ -3,7 +3,12 @@ guid: 875c34c4046355643b2d8533a1c7f974
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Santa_Hat
+    second: {fileID: 2100000, guid: 1bd05e50bc478a146ab198c66f09433b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
