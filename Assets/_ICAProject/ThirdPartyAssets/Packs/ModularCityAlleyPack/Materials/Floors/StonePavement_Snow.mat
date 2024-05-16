@@ -311,13 +311,13 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 1
-    - _Smoothness: 0.582
+    - _Smoothness: 1
     - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
     - _Snow_Curvature: 0.8
     - _Snow_Glitter_Intensity: 0.7
-    - _Snow_Intensity: 5
+    - _Snow_Intensity: 0
     - _Snow_Normal_Intensity: 0.7
     - _Snow_Tiling: 1
     - _SpecularAAScreenSpaceVariance: 0.1
@@ -372,7 +372,7 @@ Material:
     - ObjectColor: {r: 0, g: 1, b: 0, a: 0}
     - _BaseColor: {r: 0.7794118, g: 0.7794118, b: 0.7794118, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _BaseColour: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColour: {r: 0.78039217, g: 0.78039217, b: 0.78039217, a: 1}
     - _Color: {r: 0.7794118, g: 0.7794118, b: 0.7794118, a: 1}
     - _DiffusionProfileAsset: {r: 6.3137413e+31, g: -1.5099677e-36, b: 2.0955611e-33, a: 2.2757755e+14}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
