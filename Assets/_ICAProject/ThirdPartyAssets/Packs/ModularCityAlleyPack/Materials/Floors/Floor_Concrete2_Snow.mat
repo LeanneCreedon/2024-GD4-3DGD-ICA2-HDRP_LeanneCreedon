@@ -293,7 +293,7 @@ Material:
     - _SmoothnessTweak2: 1
     - _Snow_Curvature: 0.611
     - _Snow_Glitter_Intensity: 0.269
-    - _Snow_Intensity: 4
+    - _Snow_Intensity: 0
     - _Snow_Normal_Intensity: 0.7
     - _Snow_Tiling: 1
     - _SpecularAAScreenSpaceVariance: 0.1

@@ -387,7 +387,11 @@
             "m_Id": "7d7622bee9264271a2424d41df4a35dc"
         }
     ],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "68ac6d4efa584d32a0c32493d438dd8e"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -6099,6 +6103,26 @@
     "m_Value": 1.0,
     "m_DefaultValue": 1.0,
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "68ac6d4efa584d32a0c32493d438dd8e",
+    "m_Title": "Tutorial",
+    "m_Content": "Unity HDRP - Snow Shader Graph Tutorial\nhttps://www.youtube.com/watch?v=RHUryyUx_jw",
+    "m_TextSize": 0,
+    "m_Theme": 1,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": 235.3333282470703,
+        "y": 348.66668701171877,
+        "width": 320.66668701171877,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {

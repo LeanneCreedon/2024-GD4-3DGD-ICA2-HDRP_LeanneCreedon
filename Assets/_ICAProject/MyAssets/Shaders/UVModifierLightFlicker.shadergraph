@@ -111,7 +111,11 @@
             "m_Id": "07f793a652f445089c7d2dcd7d8b0864"
         }
     ],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "a0ab229a464e4d45a75b24cf19637d62"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -1902,6 +1906,26 @@
     "m_PreviewMode": 0,
     "m_CustomColors": {
         "m_SerializableColors": []
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "a0ab229a464e4d45a75b24cf19637d62",
+    "m_Title": "Tutorial",
+    "m_Content": "3 Twinkling Emissive Light Shaders | ShaderGraph Unity Tutorial\nhttps://www.youtube.com/watch?v=dkLUQ6XJVS0",
+    "m_TextSize": 0,
+    "m_Theme": 1,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -52.0,
+        "y": -177.33334350585938,
+        "width": 360.0,
+        "height": 91.30435180664063
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 

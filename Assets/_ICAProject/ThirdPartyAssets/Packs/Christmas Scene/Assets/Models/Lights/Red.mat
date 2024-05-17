@@ -265,7 +265,7 @@ Material:
     - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 1
     - _SpecularOcclusionMode: 1
-    - _Speed: 1.5
+    - _Speed: 2
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 0

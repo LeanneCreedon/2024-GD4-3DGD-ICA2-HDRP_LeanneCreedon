@@ -24,7 +24,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: MeryChristmas
-  m_Shader: {fileID: -6465566751694194690, guid: c24bf8b9d169f7e46bfce88455b9696e, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: fec3b8241a9a27849b29a89545948a1e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -197,7 +197,7 @@ Material:
     - _EmissiveExposureWeight: 0.634
     - _EmissiveIntensity: 80
     - _EmissiveIntensityUnit: 0
-    - _EnableBlendModePreserveSpecularLighting: 1
+    - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 1
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1

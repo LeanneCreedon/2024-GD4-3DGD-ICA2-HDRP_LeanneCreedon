@@ -23,7 +23,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Neon_Signs_Flicker
+  m_Name: Neon_Signs_Flicker_Hotel1
   m_Shader: {fileID: -6465566751694194690, guid: a90b9f8ca3013354d867448b62688bba, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -101,7 +101,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmmissionMap:
-        m_Texture: {fileID: 2800000, guid: 12137c8394db8124ba2203288bba3aa3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5bab24f79943cfb42b87c3c3e6e654d9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _HeightMap:
@@ -281,7 +281,7 @@ Material:
     - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 1
     - _SpecularOcclusionMode: 1
-    - _Speed: 4
+    - _Speed: 0.3
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
@@ -328,7 +328,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 18.21091, g: 18.21091, b: 18.21091, a: 30}
     - _EmissiveColorLDR: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
-    - _EmmissionColour: {r: 44.09822, g: 766.99603, b: 19.514309, a: 0}
+    - _EmmissionColour: {r: 95.87452, g: 95.87452, b: 95.87452, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
