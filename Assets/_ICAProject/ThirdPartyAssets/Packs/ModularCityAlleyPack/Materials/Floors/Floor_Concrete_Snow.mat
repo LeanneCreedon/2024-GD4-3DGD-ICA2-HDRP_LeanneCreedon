@@ -257,7 +257,7 @@ Material:
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
     - _ExcludeFromTUAndAA: 0
-    - _Glitter_Size: 1000
+    - _Glitter_Size: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.78
     - _GlossyReflections: 1
@@ -304,9 +304,9 @@ Material:
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
     - _Snow_Curvature: 0.8
-    - _Snow_Glitter_Intensity: 0.7
+    - _Snow_Glitter_Intensity: 0.5
     - _Snow_Intensity: 0
-    - _Snow_Normal_Intensity: 0.46
+    - _Snow_Normal_Intensity: 0.47
     - _Snow_Tiling: 1
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
@@ -333,7 +333,7 @@ Material:
     - _TessellationMaxDisplacement: 0.01
     - _TessellationMode: 0
     - _TessellationShapeFactor: 0.75
-    - _Tessellation_Factor: 20
+    - _Tessellation_Factor: 10
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 1
