@@ -64,6 +64,14 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: -3771020651467869908, guid: 875c34c4046355643b2d8533a1c7f974, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -264430861247414160, guid: 875c34c4046355643b2d8533a1c7f974, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 875c34c4046355643b2d8533a1c7f974, type: 3}
       propertyPath: m_Name
       value: Santa_Hat

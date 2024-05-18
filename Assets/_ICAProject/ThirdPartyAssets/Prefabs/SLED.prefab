@@ -60,6 +60,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7321201172378980237, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -914624662024409502, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -80,14 +84,30 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2105919420388626208, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2273085738545003601, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2273085738545003601, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: b3fe08d88ea273b40998a4ecbbbcbc28, type: 2}
     - target: {fileID: 4278200481962586376, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4278200481962586376, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 613f82776cac3974584894b9d70a6082, type: 2}
+    - target: {fileID: 5447058701234417818, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6004732453304885951, guid: 2ffe1df3f85cc2f489d5967f554cd07a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
