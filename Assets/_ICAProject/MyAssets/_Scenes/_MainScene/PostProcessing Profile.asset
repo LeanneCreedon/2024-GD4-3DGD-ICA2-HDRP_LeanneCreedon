@@ -21,7 +21,7 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 1.56
+    m_Value: 1.5
   directLightingStrength:
     m_OverrideState: 1
     m_Value: 0.091
@@ -105,13 +105,13 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.373
+    m_Value: 0.485
   smoothness:
     m_OverrideState: 0
-    m_Value: 0.2
+    m_Value: 0.319
   roundness:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 0.614
   rounded:
     m_OverrideState: 0
     m_Value: 0
@@ -142,10 +142,10 @@ MonoBehaviour:
     m_Value: 0
   toeStrength:
     m_OverrideState: 1
-    m_Value: 0.386
+    m_Value: 0.15
   toeLength:
     m_OverrideState: 1
-    m_Value: 0.65
+    m_Value: 0.4
   shoulderStrength:
     m_OverrideState: 1
     m_Value: 0.33
@@ -160,7 +160,7 @@ MonoBehaviour:
     m_Value: 1.01
   lutTexture:
     m_OverrideState: 1
-    m_Value: {fileID: 0}
+    m_Value: {fileID: 11700000, guid: d1811ef4acafff94ca3519e81add1863, type: 3}
   lutContribution:
     m_OverrideState: 1
     m_Value: 1
@@ -229,7 +229,7 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.269
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
