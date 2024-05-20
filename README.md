@@ -17,6 +17,8 @@ Link to Screencast:
 ## 📰 Project Description ##
 New York, Christmas Eve, the year is 1955. You hear a car radio nearby. You follow the sound and you find a red pickup truck left unattended with the engine running. Could it be Santa’s truck? Snow begins to fall around you. Explore the streets and find 7 hidden candy canes! 🎄
 
+#### ❄️ Screenshots ####
+
 ![Screenshot (710)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/af02fab9-636b-45e4-8644-bb1e3db48c72)
 ![Screenshot (706)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/caeda14c-b694-41cb-b6a9-da4fa326440a)
 ![Screenshot (696)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/223518b0-217f-488f-a248-4e8824821c46)
@@ -25,10 +27,10 @@ New York, Christmas Eve, the year is 1955. You hear a car radio nearby. You foll
 ![Screenshot (649)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/f61ea87c-7083-4e48-9440-f5d9805f50eb)
 ![Screenshot (666)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/9c8ba3aa-0c80-44ce-8bcf-0195a64b80e4)
 
-⭐ Key Features
+## ⭐ Key Features ##
 - First-Person Controller
 - Occlusion Culling (Including an Occlusion Portal)
-- LOD Groups on Key Obeject (Christmas Truck)
+- LOD Groups on Key Object (Christmas Truck)
 - Post-aliasing on Player Camera
 - Use of Baked and Real-time Lighting
 - Use of Colour Cookies
