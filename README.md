@@ -15,7 +15,7 @@ Link to Screencast:
 > https://youtu.be/SeF3TVjslJs
 
 ## 📰 Project Description ##
-New York, Christmas Eve, the year is 1955. You hear a car radio nearby. You follow the sound and you find a red pickup truck left unattended with the engine running. Could it be Santa’s truck? Snow begins to fall around you. Explore the streets and find 7 hidden candy canes! 🎄
+**Santa's Wild Night in New York!** 🎅 it's Christmas Eve, the year is 1955. You hear a car radio nearby. You follow the sound and you find a red pickup truck left unattended with the engine running. Could it be Santa’s truck? Snow begins to fall around you. Explore the streets, immerse yourself in the city sounds. Can you find the Seven Candy Canes Santa Lost?🎄 (***He may of also dropped his hat...*** 🧑‍🎄)
 
 #### ❄️ Screenshots ####
 
@@ -26,8 +26,35 @@ New York, Christmas Eve, the year is 1955. You hear a car radio nearby. You foll
 ![Screenshot (686)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/7b94c388-036a-4380-86bd-2d1c13f11222)
 ![Screenshot (649)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/f61ea87c-7083-4e48-9440-f5d9805f50eb)
 ![Screenshot (666)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/9c8ba3aa-0c80-44ce-8bcf-0195a64b80e4)
+![Screenshot (681)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/811fa152-9305-4cb6-a7f3-6e8d69956b9c)
+![Screenshot (678)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/b7ff9b56-5ea3-4eca-b76a-aa15cd98b5d6)
+![Screenshot (677)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/1815b86d-7e7f-4bf4-bf84-bffada094516)
+![Screenshot (672)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/c949fdf0-2199-4650-828f-76c8416003bc)
+![Screenshot (668)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/f61aa08c-dd96-492b-8ba4-52ec682ed58b)
+![Screenshot (663)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/c34e74dd-bf0a-478b-b7c3-289e63cc9ef7)
+![Screenshot (665)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/608433f3-3380-4f68-9252-09744b6555c8)
+![Screenshot (662)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/79208ce5-f638-40c9-97f4-d5060f6792d2)
+![Screenshot (656)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/5600346e-8252-4543-b166-f6c658e100fb)
+![Screenshot (654)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/80ef62e4-e9b8-4520-813c-0de2c876077a)
+![Screenshot (653)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/6b3db1a0-3bc0-412e-b88c-3235daaf5c8b)
+![Screenshot (652)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/9dc38189-5fbb-420d-81f7-6d037bc1129c)
+![Screenshot (670)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/29632656-cf0d-41cd-a7ce-483387f10235)
+![Screenshot (674)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/98c2ee8b-2331-41ff-b66e-08dcadcaac89)
+![Screenshot (676)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/59e44729-9c32-4b16-aed6-bba675665301)
+![Screenshot (684)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/41199146-be21-43e8-a5f8-06a96de9c2b1)
+![Screenshot (690)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/eae74880-f10a-41cc-adc8-c48c8e29032f)
+![Screenshot (691)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/a9c8a409-b9c9-43c4-a9ff-d96d13013321)
+![Screenshot (694)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/36f61564-12de-4ece-86fd-e95160df361d)
+![Screenshot (692)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/fb4907f6-eb72-4f34-9d0b-46d761b49a6c)
+![Screenshot (700)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/9ab4a2bf-49ed-4c4b-be8a-c1f6f7945b3c)
+![Screenshot (701)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/a72fa9ec-962e-47af-8e99-7c1d84013eef)
+![Screenshot (702)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/443d05e7-b1d8-45be-a805-3ae02e0bf2be)
+![Screenshot (708)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/6fb801ae-0e13-408b-8fc6-0d638c62429d)
+![Screenshot (711)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/468d1a8d-182a-4bc3-a713-6b5133a66c06)
+![Screenshot (712)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/957ae65f-ac9b-4a9b-95b2-fe4751b6d26a)
 
 ## ⭐ Key Features Implemented ##
+
 - First-Person Controller
 - Occlusion Culling (Including an Occlusion Portal)
 - UI Prompt for Opening Garage door, which is the Occlution Portal (Garage door has Occlusion Portal Component and a script to control it)
