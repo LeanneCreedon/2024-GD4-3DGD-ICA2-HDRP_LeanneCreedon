@@ -27,21 +27,30 @@ New York, Christmas Eve, the year is 1955. You hear a car radio nearby. You foll
 ![Screenshot (649)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/f61ea87c-7083-4e48-9440-f5d9805f50eb)
 ![Screenshot (666)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/9c8ba3aa-0c80-44ce-8bcf-0195a64b80e4)
 
-## ⭐ Key Features ##
+## ⭐ Key Features Implemented ##
 - First-Person Controller
 - Occlusion Culling (Including an Occlusion Portal)
-- LOD Groups on Key Object (Christmas Truck)
-- Post-aliasing on Player Camera
-- Use of Baked and Real-time Lighting
-- Use of Colour Cookies
-- Light Probe Group and Reflection Probes Included
-- Reduced Texels on Less Important Objects and Increaced on Objects of Higher Importance
+- UI Prompt for Opening Garage door, which is the Occlution Portal (Garage door has Occlusion Portal Component and a script to control it)
+- LOD Groups on Key Object (CocaCola Christmas Truck)
+- Post-aliasing on Player Camera to increase quality
+- Use of Baked and Real-time Lighting where required (7 Baked Lightmaps)
+- Static Objects and lights marked as Static
+- Use of Colour Cookies (on Truck Headlamps)
+- Light Probe Group and Reflection Probes Included (Near Dynamic object, aka the animated cat)
+- Reduced Texels on Less Important Objects and Increased on Objects of Higher Importance
 - 35mm Sensor Type on Camera
-- UVModifier Shaders (Christmas Light Effects and Neon Alternating Light Effect)
-- Tri-planar Projection Shader (Snow Landing on Ground)
-- Post-processing using a LUT
+- UVModifier Shaders (Christmas Lights, Mery Christmas on Truck, and Neon Arrows Alternating Light Effects)
+- Tri-planar Projection Shader (Snow Landing on Ground. The snow intensity variable was then animated on objects with the shader applied)
+- Post-processing using a Look Up Texture (LUT)
+- Cubemap using a HDRI Starry Night Sky
+- Road and Commercial Signage
+- Random Flickering StreetLamp Light using a Script
 - Volumetric Fog
+- Street Graffiti
+- Authentic Posters from the 1940S-50s Era (Commercials for brands such as CocaCola, Pepsi, Guinness and the Disney Classic film Lady and the Tramp)
 - Particle Effect (Snow and Smoke from Truck Exhaust)
+- Immersive 3D Audio (Truck Radio (real radio show from the 40s-50s era), Cat Purring, Distant Traffic, Light Bulb Failing and Neon lights Buzzing)
+- And...... a Cat! 🐈‍⬛ ....*meow*...*purrrrr*....
 
 ## 🧵 Sources ##
 
