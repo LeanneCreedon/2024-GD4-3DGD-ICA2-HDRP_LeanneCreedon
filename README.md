@@ -12,10 +12,34 @@ Instructions for download:
 
 Link to Screencast:
 
-> TO BE ADDED
+> https://youtu.be/SeF3TVjslJs
 
 ## 📰 Project Description ##
+New York, Christmas Eve, the year is 1955. You hear a car radio nearby. You follow the sound and you find a red pickup truck left unattended with the engine running. Could it be Santa’s truck? Snow begins to fall around you. Explore the streets and find 7 hidden candy canes! 🎄
 
+![Screenshot (710)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/af02fab9-636b-45e4-8644-bb1e3db48c72)
+![Screenshot (706)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/caeda14c-b694-41cb-b6a9-da4fa326440a)
+![Screenshot (696)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/223518b0-217f-488f-a248-4e8824821c46)
+![Screenshot (693)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/2fe29d4b-5b14-4652-a326-57a25c86c183)
+![Screenshot (686)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/7b94c388-036a-4380-86bd-2d1c13f11222)
+![Screenshot (649)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/f61ea87c-7083-4e48-9440-f5d9805f50eb)
+![Screenshot (666)](https://github.com/LeanneCreedon/2024-GD4-3DGD-ICA2-HDRP_LeanneCreedon/assets/78487811/9c8ba3aa-0c80-44ce-8bcf-0195a64b80e4)
+
+⭐ Key Features
+- First-Person Controller
+- Occlusion Culling (Including an Occlusion Portal)
+- LOD Groups on Key Obeject (Christmas Truck)
+- Post-aliasing on Player Camera
+- Use of Baked and Real-time Lighting
+- Use of Colour Cookies
+- Light Probe Group and Reflection Probes Included
+- Reduced Texels on Less Important Objects and Increaced on Objects of Higher Importance
+- 35mm Sensor Type on Camera
+- UVModifier Shaders (Christmas Light Effects and Neon Alternating Light Effect)
+- Tri-planar Projection Shader (Snow Landing on Ground)
+- Post-processing using a LUT
+- Volumetric Fog
+- Particle Effect (Snow and Smoke from Truck Exhaust)
 
 ## 🧵 Sources ##
 
