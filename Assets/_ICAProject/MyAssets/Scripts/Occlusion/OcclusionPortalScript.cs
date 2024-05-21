@@ -1,7 +1,7 @@
 using UnityEngine;
 
 /// <summary>
-/// I Recieved Some Help From Niall O'Rielly with this Script
+/// I Recieved Some Help From Classmate Niall O'Reilly with this Script
 /// </summary>
 public class OcclusionPortalScript : MonoBehaviour
 {
