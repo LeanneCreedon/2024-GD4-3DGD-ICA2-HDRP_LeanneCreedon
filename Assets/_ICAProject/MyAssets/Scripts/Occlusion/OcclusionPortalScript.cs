@@ -1,5 +1,8 @@
 using UnityEngine;
 
+/// <summary>
+/// I Recieved Some Help From Niall O'Rielly with this Script
+/// </summary>
 public class OcclusionPortalScript : MonoBehaviour
 {
     public OcclusionPortal myOcclusionPortal;
@@ -29,12 +32,10 @@ public class OcclusionPortalScript : MonoBehaviour
         }
     }
 
-
     void Update()
     {
         if (isPlayerInZone && Input.GetKeyDown(KeyCode.E))
         {
-            Debug.Log("E key pressed while in the trigger zone.");
             isPortalOpen = !isPortalOpen;
             myOcclusionPortal.open = isPortalOpen;
 
